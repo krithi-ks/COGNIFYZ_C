@@ -1,0 +1,5 @@
+Task 5 - FILE COPY
+Write a program that copies the contents of one file to another. Prompt the user to input the names of the source and destination files. 
+Read the contents of the source file and write them to the destination file. 
+
+ 
